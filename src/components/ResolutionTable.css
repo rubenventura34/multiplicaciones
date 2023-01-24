@@ -1,0 +1,15 @@
+.resolution-table {
+  display: inline-block;
+  margin-top: 1em;
+}
+table {
+  border-collapse: collapse;
+  border-color: white;
+}
+table td {
+  width: 30px;
+  height: 30px;
+}
+.number-input {
+  width: 24px;
+}
